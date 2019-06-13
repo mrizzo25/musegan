@@ -4,7 +4,7 @@ gast==0.2.0
 grpcio==1.14.2
 imageio==2.3.0
 Markdown==2.6.11
-mido==1.2.8
+mido==1.2.6
 numpy==1.14.5
 Pillow==5.2.0
 pretty-midi==0.2.8
@@ -14,7 +14,7 @@ PyYAML==3.13
 scipy==1.1.0
 SharedArray==3.0.0
 six==1.11.0
-tensorboard==1.10.0
+tensorboard==1.14.0
 tensorflow-gpu==2.0.0-beta0
 termcolor==1.1.0
 Werkzeug==0.14.1
