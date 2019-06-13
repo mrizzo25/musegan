@@ -7,7 +7,7 @@ imgaug==0.2.5
 Markdown==2.6.11
 mido==1.2.6
 folium==0.2.1
-prompt-toolkit==2.0.0
+prompt-toolkit==2.0.1
 numpy==1.15.0
 Pillow==5.2.0
 pretty-midi==0.2.8
